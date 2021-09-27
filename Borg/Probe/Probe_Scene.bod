@@ -1,0 +1,7 @@
+/# Exported with dbox2 1.13 at 8/14/2021 8:06:48 AM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Borg\Probe\Probe_Body; C 1; N ships\StarTrekShips\Borg\Probe\Probe_Body;  // idx 0
+{ 0x2002;  -465; 0; -594;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+

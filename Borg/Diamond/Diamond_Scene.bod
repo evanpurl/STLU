@@ -1,0 +1,10 @@
+/# Exported with dbox2 1.13 at 8/14/2021 7:38:06 AM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Borg\Diamond\Diamond1; N ships\StarTrekShips\Borg\Diamond\Diamond1;  // idx 0
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Borg\Diamond\Diamond2; N ships\StarTrekShips\Borg\Diamond\Diamond2;  // idx 1
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+

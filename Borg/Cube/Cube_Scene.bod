@@ -1,0 +1,8 @@
+/# Exported with dbox2 1.13 at 8/14/2021 7:59:12 AM
+ 
+VER: 6;
+ 
+
+P 0; B ships\StarTrekShips\Borg\Cube\Cube_Outer; C 40; N ships\StarTrekShips\Borg\Cube\Cube_Outer;  // idx 0
+{ 0x2002;  -6916; 0; -13084;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
