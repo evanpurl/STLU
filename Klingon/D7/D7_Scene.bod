@@ -1,0 +1,37 @@
+/# Exported with dbox2 1.13 from D7.max at 8/13/2021 11:24:45 AM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Klingon\D7\D7Stanchionguns; N ships\StarTrekShips\Klingon\D7\D7Stanchionguns;  // idx 0
+{ 0x2002;  -737; 611; 9223;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Klingon\D7\D7Stanchion; N ships\StarTrekShips\Klingon\D7\D7Stanchion;  // idx 1
+{ 0x2002;  -737; 611; 7670;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Klingon\D7\D7RightEngine; N ships\StarTrekShips\Klingon\D7\D7RightEngine;  // idx 2
+{ 0x2002;  -12024; -3508; -8336;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Klingon\D7\D7MissionPod; N ships\StarTrekShips\Klingon\D7\D7MissionPod;  // idx 3
+{ 0x2002;  -737; 1255; -3845;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\StarTrekShips\Klingon\D7\D7MainBodyouterguns; N ships\StarTrekShips\Klingon\D7\D7MainBodyouterguns;  // idx 4
+{ 0x2002;  -737; -1089; -5909;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\StarTrekShips\Klingon\D7\D7MainBodyinnerguns; N ships\StarTrekShips\Klingon\D7\D7MainBodyinnerguns;  // idx 5
+{ 0x2002;  -737; 344; 1535;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\StarTrekShips\Klingon\D7\D7MainBodyGunoutercoil; N ships\StarTrekShips\Klingon\D7\D7MainBodyoutercoil;  // idx 6
+{ 0x2002;  -737; -1057; -5898;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\StarTrekShips\Klingon\D7\D7MainBodyinnercoil; N ships\StarTrekShips\Klingon\D7\D7MainBodyinnercoil;  // idx 7
+{ 0x2002;  -737; 388; 1686;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\StarTrekShips\Klingon\D7\D7MainBody; N ships\StarTrekShips\Klingon\D7\D7MainBody;  // idx 8
+{ 0x2002;  -737; 0; -1446;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\StarTrekShips\Klingon\D7\D7LeftEngine; N ships\StarTrekShips\Klingon\D7\D7LeftEngine;  // idx 9
+{ 0x2002;  10529; -3468; -8303;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\StarTrekShips\Klingon\D7\D7Bridge; N ships\StarTrekShips\Klingon\D7\D7Bridge;  // idx 10
+{ 0x2002;  -737; 403; 12869;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
