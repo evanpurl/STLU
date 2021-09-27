@@ -1,6 +1,6 @@
 /# Exported with dbox2 1.13 at 9/27/2021 1:26:47 PM
  
-MATERIAL6: 0; 0; C:\Users\evan\Desktop\Star Trek\ST Models to look at\Star Trek Online Ships 2020 (October)\Klingon\Klingon Textures HD\Type 2\Ship_Klg_Cruiser_Type2_Sout.jpg; 149;149;149; 149;149;149; 229;229;229; 0; 0; 10; 0; 0;0;0; 100; NULL;100; NULL;30; NULL;100; NULL;100; NULL;0; // Material #3
+MATERIAL6: 0; 0; Ship_Klg_Cruiser_Type2_Sout.dds; 149;149;149; 149;149;149; 229;229;229; 0; 0; 10; 0; 0;0;0; 100; NULL;100; NULL;30; NULL;100; NULL;100; NULL;0; // Material #3
  
 13975; // body size
 // vertices (11639)
