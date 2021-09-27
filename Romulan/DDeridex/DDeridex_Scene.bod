@@ -1,0 +1,70 @@
+/# Exported with dbox2 1.13 at 9/6/2021 4:34:54 PM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Romulan\DDeridex\EngineL; N ships\StarTrekShips\Romulan\DDeridex\EngineL;  // idx 0
+{ 0x2002;  -57876; -2714; -14799;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Romulan\DDeridex\EngineR; N ships\StarTrekShips\Romulan\DDeridex\EngineR;  // idx 1
+{ 0x2002;  56602; -2714; -14799;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Romulan\DDeridex\MainBody; N ships\StarTrekShips\Romulan\DDeridex\MainBody;  // idx 2
+{ 0x2002;  -626; 0; -21418;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Romulan\DDeridex\Cockpit; N ships\StarTrekShips\Romulan\DDeridex\Cockpit;  // idx 3
+{ 0x2002;  -626; -5610; 36474;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 4
+{ 0x2002;  56805; -2924; -36438;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3dRight; b  // idx 5
+{ 0x2002;  59477; -3204; -29109;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom001; b  // idx 6
+{ 0x2002;  -407; -23715; -22857;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom; b  // idx 7
+{ 0x2002;  -437; -22609; -63709;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRight; b  // idx 8
+{ 0x2002;  60148; -2553; -5281;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop002; b  // idx 9
+{ 0x2002;  -377; 17395; 9944;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop001; b  // idx 10
+{ 0x2002;  -201; 19735; -37899;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeft; b  // idx 11
+{ 0x2002;  -63326; -1352; -6737;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 12; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bLeft; b  // idx 12
+{ 0x2002;  -60767; 270; -26596;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 13; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 13
+{ 0x2002;  65; 9500; -79677;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 14; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx 14
+{ 0x2002;  146; 17766; -10541;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 15; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bright; b  // idx 15
+{ 0x2002;  59829; -1107; -14364;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 16; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bBottom; b  // idx 16
+{ 0x2002;  191; -582; -9208;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 17; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 17
+{ 0x2002;  65; 6699; 49395;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 18; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1bLeft; b  // idx 18
+{ 0x2002;  -65924; 31; -15787;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cFront; b  // idx 19
+{ 0x2002;  -4547; -9847; 54809;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cFront2; b  // idx 20
+{ 0x2002;  2827; -9847; 54809;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 21; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 21
+{ 0x2002;  -57910; -2924; -36438;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
