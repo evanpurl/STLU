@@ -2,10 +2,10 @@
  
 VER: 6;
  
-P 0; B TLiss_Details; N TLiss_Details;  // idx 0
+P 0; B ships\StarTrekShips\Romulan\TLiss\TLiss_Details; N ships\StarTrekShips\Romulan\TLiss\TLiss_Details;  // idx 0
 { 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
 
-P 1; B TLiss_Hull; N TLiss_Hull;  // idx 1
+P 1; B ships\StarTrekShips\Romulan\TLiss\TLiss_Hull; N ships\StarTrekShips\Romulan\TLiss\TLiss_Hull;  // idx 1
 { 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
 
 P 2; B ships\props\invisible_weapon_Forward; N ships\props\invisible_weapon_Forward;  // idx 2
@@ -38,10 +38,10 @@ P 10; B ships\props\invisible_weapon_Front; C 5; N ships\props\invisible_weapon_
 P 11; B ships\props\cameradummy_Cockpit; N ships\props\cameradummy_Cockpit;  // idx 11
 { 0x2002;  0; 5484; 6444;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
 
-P 12; B ships\props\cameradummy_TopLeft; N ships\props\cameradummy_TopLeft;  // idx 12
+P 12; B ships\props\cameradummy_Left; N ships\props\cameradummy_Left;  // idx 12
 { 0x2002;  -464; 5879; -2417;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
 
-P 13; B ships\props\cameradummyTopRight; N ships\props\cameradummy_TopRight;  // idx 13
+P 13; B ships\props\cameradummyRight; N ships\props\cameradummy_Right;  // idx 13
 { 0x2002;  467; 5879; -2417;  0.277778; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
 
 P 14; B ships\props\cameradummy_Back; C 1; N ships\props\cameradummy_Back;  // idx 14
@@ -55,9 +55,3 @@ P 16; B ships\props\cameradummy_Bottom; C 2; N ships\props\cameradummy_Bottom;  
 
 P 17; B ships\props\cameradummy_Top; C 4; N ships\props\cameradummy_Top;  // idx 17
 { 0x2002;  0; 5934; 0;  0.249496; -1.000000; 0.000000; 0.000000;  -1; 1; } // 0
-
-P 18; B ships\StarTrekShips\Romulan\TLiss\TLiss_Details; N ships\StarTrekShips\Romulan\TLiss\TLiss_Details;  // idx 18
-{ 0x2002;  -162; 0; 681;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
-
-P 19; B ships\StarTrekShips\Romulan\TLiss\TLiss_Hull; N ships\StarTrekShips\Romulan\TLiss\TLiss_Hull;  // idx 19
-{ 0x2002;  -162; 0; 681;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
