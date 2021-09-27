@@ -1,0 +1,67 @@
+/# Exported with dbox2 1.13 from Akira.max at 8/12/2021 11:15:30 PM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Federation\Columbia\Saucer; N ships\StarTrekShips\Federation\Columbia\Saucer;  // idx 0
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Federation\Columbia\Stanchion; N ships\StarTrekShips\Federation\Columbia\Stanchion;  // idx 1
+{ 0x2002;  0; 0; -20071;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Federation\Columbia\Pylons; N ships\StarTrekShips\Federation\Columbia\Pylons;  // idx 2
+{ 0x2002;  0; -1968; -41353;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Federation\Columbia\NacelleRight; N ships\StarTrekShips\Federation\Columbia\NacelleRight;  // idx 3
+{ 0x2002;  30888; 5931; -52538;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\StarTrekShips\Federation\Columbia\NacelleRightdetail; N ships\StarTrekShips\Federation\Columbia\NacelleRightdetail;  // idx 4
+{ 0x2002;  30888; 5931; -52538;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\StarTrekShips\Federation\Columbia\NacelleRightdetail2; N ships\StarTrekShips\Federation\Columbia\NacelleRightdetail2;  // idx 5
+{ 0x2002;  30888; 5931; -52538;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\StarTrekShips\Federation\Columbia\NacelleLeft; N ships\StarTrekShips\Federation\Columbia\NacelleLeft;  // idx 6
+{ 0x2002;  -31576; 5930; -52543;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\StarTrekShips\Federation\Columbia\NacelleLeftdetail; N ships\StarTrekShips\Federation\Columbia\NacelleLeftdetail;  // idx 7
+{ 0x2002;  -31576; 5930; -52543;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\StarTrekShips\Federation\Columbia\NacelleLeftdetail2; N ships\StarTrekShips\Federation\Columbia\NacelleLeftdetail2;  // idx 8
+{ 0x2002;  -31576; 5930; -52543;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 9
+{ 0x2002;  -31665; 9721; -84245;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 10
+{ 0x2002;  30907; 9720; -84245;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cBottom; b  // idx 11
+{ 0x2002;  -21; -2640; 19231;  0.251960; 1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 12; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRight; b  // idx 12
+{ 0x2002;  34147; 423; 3045;  0.251701; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 13; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cTop; b  // idx 13
+{ 0x2002;  -201; 5353; 19301;  0.252658; -1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 14; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bLeft; b  // idx 14
+{ 0x2002;  -33471; -83; 3099;  0.251389; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 15; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 15
+{ 0x2002;  65; 273; -41159;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 16; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx 16
+{ 0x2002;  146; 9499; 1268;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 17; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bright; b  // idx 17
+{ 0x2002;  4100; 7612; 1818;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 18; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bBottom; b  // idx 18
+{ 0x2002;  191; -6690; 1373;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 19
+{ 0x2002;  65; 7635; 4744;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1bLeft; b  // idx 20
+{ 0x2002;  -4113; 7937; 1685;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+

@@ -1,0 +1,94 @@
+/# Exported with dbox2 1.13 at 8/12/2021 1:41:11 PM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Federation\Avenger\SaucerArmor; N ships\StarTrekShips\Federation\Avenger\SaucerArmor;  // idx 0
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Federation\Avenger\Saucer; N ships\StarTrekShips\Federation\Avenger\Saucer;  // idx 1
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Federation\Avenger\PylonRight; N ships\StarTrekShips\Federation\Avenger\PylonRight;  // idx 2
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Federation\Avenger\PylonLeft; N ships\StarTrekShips\Federation\Avenger\PylonLeft;  // idx 3
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\StarTrekShips\Federation\Avenger\Nacellerightarmor; N ships\StarTrekShips\Federation\Avenger\Nacellerightarmor;  // idx 4
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\StarTrekShips\Federation\Avenger\NacelleRight; N ships\StarTrekShips\Federation\Avenger\NacelleRight;  // idx 5
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\StarTrekShips\Federation\Avenger\NacelleLeftarmor; N ships\StarTrekShips\Federation\Avenger\NacelleLeftarmor;  // idx 6
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\StarTrekShips\Federation\Avenger\NacelleLeft; N ships\StarTrekShips\Federation\Avenger\NacelleLeft;  // idx 7
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\StarTrekShips\Federation\Avenger\Hullarmor; N ships\StarTrekShips\Federation\Avenger\Hullarmor;  // idx 8
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\StarTrekShips\Federation\Avenger\Hull; N ships\StarTrekShips\Federation\Avenger\Hull;  // idx 9
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\StarTrekShips\Federation\Avenger\Bridgearmor; N ships\StarTrekShips\Federation\Avenger\Bridgearmor;  // idx 10
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\StarTrekShips\Federation\Avenger\Bridge; N ships\StarTrekShips\Federation\Avenger\Bridge;  // idx 11
+{ 0x2002;  65; -1187; 753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 12; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 12
+{ 0x2002;  -34013; 10180; -100488;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 13; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 13
+{ 0x2002;  33576; 9735; -101049;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 14; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3dRight; b  // idx 14
+{ 0x2002;  16440; -14155; -14667;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 15; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom001; b  // idx 15
+{ 0x2002;  1010; -6398; 69870;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 16; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom; b  // idx 16
+{ 0x2002;  740; -26389; -13228;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 17; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRight; b  // idx 17
+{ 0x2002;  33940; 1064; 61239;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 18; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop002; b  // idx 18
+{ 0x2002;  -201; 10098; 71821;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop001; b  // idx 19
+{ 0x2002;  -201; 16606; 21230;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeft; b  // idx 20
+{ 0x2002;  -31834; 983; 69591;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 21; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bLeft; b  // idx 21
+{ 0x2002;  -18530; -14314; -14667;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 22; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 22
+{ 0x2002;  65; 273; -98823;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 23; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx 23
+{ 0x2002;  146; 17088; 30666;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 24; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3brightSMALL; b  // idx 24
+{ 0x2002;  40045; 1928; 55587;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 25; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bBottom; b  // idx 25
+{ 0x2002;  191; -9650; 51734;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 26; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 26
+{ 0x2002;  65; 14873; 35382;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 27; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1bLeftSmall; b  // idx 27
+{ 0x2002;  -45666; 10571; 55587;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 28; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cFront; b  // idx 28
+{ 0x2002;  -3816; 1740; 97978;  0.250706; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 29; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cFront2; b  // idx 29
+{ 0x2002;  3559; 1740; 97978;  0.250706; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+

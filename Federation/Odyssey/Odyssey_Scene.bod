@@ -1,0 +1,115 @@
+/# Exported with dbox2 1.13 at 8/18/2021 2:21:00 PM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Federation\Odyssey\Body; N ships\StarTrekShips\Federation\Odyssey\Body;  // idx 0
+{ 0x2002;  0; -3254; 14800;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Federation\Odyssey\Saucer; N ships\StarTrekShips\Federation\Odyssey\Saucer;  // idx 1
+{ 0x2002;  0; 16512; 117616;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Federation\Odyssey\PylonR; N ships\StarTrekShips\Federation\Odyssey\PylonR;  // idx 2
+{ 0x2002;  27148; -2979; -83476;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Federation\Odyssey\PylonL; N ships\StarTrekShips\Federation\Odyssey\PylonL;  // idx 3
+{ 0x2002;  -27651; -3039; -81864;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\StarTrekShips\Federation\Odyssey\NacelleL; N ships\StarTrekShips\Federation\Odyssey\NacelleL;  // idx 4
+{ 0x2002;  -86641; 27815; -109099;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\StarTrekShips\Federation\Odyssey\NacelleLdetails; N ships\StarTrekShips\Federation\Odyssey\NacelleLdetails;  // idx 5
+{ 0x2002;  -86641; 27932; -109306;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\StarTrekShips\Federation\Odyssey\NacelleR; N ships\StarTrekShips\Federation\Odyssey\NacelleR;  // idx 6
+{ 0x2002;  84342; 27797; -108827;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\StarTrekShips\Federation\Odyssey\NacelleRdetails; N ships\StarTrekShips\Federation\Odyssey\NacelleRdetails;  // idx 7
+{ 0x2002;  84342; 27797; -108827;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\StarTrekShips\Federation\Odyssey\SaucerDecal; N ships\StarTrekShips\Federation\Odyssey\SaucerDecal;  // idx 8
+{ 0x2002;  76; 16471; 117561;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightTop; b  // idx 9
+{ 0x2002;  27; 38537; 78526;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx 10
+{ 0x2002;  7915; 40661; 152264;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 11
+{ 0x2002;  0; 17007; -125773;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 12; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bright; b  // idx 12
+{ 0x2002;  91476; 10310; 52543;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 13; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1bLeft; b  // idx 13
+{ 0x2002;  -94408; 10310; 52545;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 14; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeft; b  // idx 14
+{ 0x2002;  -103934; 31556; -75445;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 15; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRight; b  // idx 15
+{ 0x2002;  57694; 17225; 227134;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 16; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bRight; b  // idx 16
+{ 0x2002;  102000; 34665; -45840;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 17; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bLeft; b  // idx 17
+{ 0x2002;  -95355; 33025; -196576;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 18; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 18
+{ 0x2002;  0; 38823; 157735;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop001; b  // idx 19
+{ 0x2002;  -47972; 34099; 113043;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftTop002; b  // idx 20
+{ 0x2002;  40346; 32682; 117773;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 21; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightTop002; b  // idx 21
+{ 0x2002;  66; 39721; 142103;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 22; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftBottom; b  // idx 22
+{ 0x2002;  -269; 4831; 121336;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 23; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cLeftBottom001; b  // idx 23
+{ 0x2002;  -145; 10768; 192772;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 24; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bBottom; b  // idx 24
+{ 0x2002;  -23358; 3003; 151156;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 25; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom; b  // idx 25
+{ 0x2002;  132; -35698; 7754;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 26; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRightBottom001; b  // idx 26
+{ 0x2002;  266; -35094; 29507;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 27; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 27
+{ 0x2002;  -87017; 31904; -249997;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 28; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 28
+{ 0x2002;  84016; 31182; -249997;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 29; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3dRight; b  // idx 29
+{ 0x2002;  96483; 16234; 92299;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 30; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eRight; b  // idx 30
+{ 0x2002;  95482; 32012; -145342;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 31; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3dLeft; b  // idx 31
+{ 0x2002;  -94741; 14490; 81547;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 32; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eLeft; b  // idx 32
+{ 0x2002;  -84531; 15442; 171350;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 33; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eRear; b  // idx 33
+{ 0x2002;  20021; 21147; -12834;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 34; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eRear2; b  // idx 34
+{ 0x2002;  -50742; 21147; -12834;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 35; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eFront; b  // idx 35
+{ 0x2002;  -35394; 15442; 251392;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 36; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eFront2; b  // idx 36
+{ 0x2002;  36084; 15442; 251392;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
