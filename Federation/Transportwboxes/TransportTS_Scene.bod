@@ -1,0 +1,76 @@
+/# Exported with dbox2 1.13 at 9/19/2021 12:53:27 PM
+ 
+VER: 6;
+ 
+P 0; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 0
+{ 0x2002;  -13938; -1280; -5101;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B effects\engines\fx_engine_emitter; N effects\engines\fx_engine_emitter;  // idx 1
+{ 0x2002;  30907; -1509; -5219;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cBottom; b  // idx 2
+{ 0x2002;  8322; 8239; -37917;  0.251457; 1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cRight; b  // idx 3
+{ 0x2002;  20015; 17774; -38444;  0.250939; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3cTop; b  // idx 4
+{ 0x2002;  8369; 23968; -33749;  0.251297; -1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3bLeft; b  // idx 5
+{ 0x2002;  -3978; 17487; -36687;  0.250216; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 6
+{ 0x2002;  8115; 15955; -78525;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx 7
+{ 0x2002;  7666; 21901; 1268;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bright; b  // idx 8
+{ 0x2002;  26981; 7612; 4452;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bBottom; b  // idx 9
+{ 0x2002;  7575; -6690; 1373;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 10
+{ 0x2002;  8260; 14281; 14408;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1bLeft; b  // idx 11
+{ 0x2002;  -12383; 7937; 3931;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 12; B ships\StarTrekShips\Federation\Transportwboxes\Box4; N ships\StarTrekShips\Federation\Transportwboxes\Box4;  // idx 12
+{ 0x2002;  8093; 2256; 57102;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 13; B ships\StarTrekShips\Federation\Transportwboxes\Box1; N ships\StarTrekShips\Federation\Transportwboxes\Box1;  // idx 13
+{ 0x2002;  8168; 7424; 14095;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 14; B ships\StarTrekShips\Federation\Transportwboxes\MainBody; N ships\StarTrekShips\Federation\Transportwboxes\MainBody;  // idx 14
+{ 0x2002;  8104; 11363; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 15; B ships\StarTrekShips\Federation\Transportwboxes\MainBodydetails; N ships\StarTrekShips\Federation\Transportwboxes\MainBodydetails;  // idx 15
+{ 0x2002;  8104; 11363; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 16; B ships\StarTrekShips\Federation\Transportwboxes\PylonR; N ships\StarTrekShips\Federation\Transportwboxes\PylonR;  // idx 16
+{ 0x2002;  12447; 12475; -417;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 17; B ships\StarTrekShips\Federation\Transportwboxes\PylonRDetails; N ships\StarTrekShips\Federation\Transportwboxes\PylonRDetails;  // idx 17
+{ 0x2002;  12447; 12475; -417;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 18; B ships\StarTrekShips\Federation\Transportwboxes\PylonL; N ships\StarTrekShips\Federation\Transportwboxes\PylonL;  // idx 18
+{ 0x2002;  3784; 12475; -331;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\StarTrekShips\Federation\Transportwboxes\PylonLDetails; N ships\StarTrekShips\Federation\Transportwboxes\PylonLDetails;  // idx 19
+{ 0x2002;  3784; 12475; -331;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\StarTrekShips\Federation\Transportwboxes\NacelleR; N ships\StarTrekShips\Federation\Transportwboxes\NacelleR;  // idx 20
+{ 0x2002;  30038; 0; 9684;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 21; B ships\StarTrekShips\Federation\Transportwboxes\NacelleRDetails; N ships\StarTrekShips\Federation\Transportwboxes\NacelleRDetails;  // idx 21
+{ 0x2002;  30038; 0; 9684;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 22; B ships\StarTrekShips\Federation\Transportwboxes\NacelleL; N ships\StarTrekShips\Federation\Transportwboxes\NacelleL;  // idx 22
+{ 0x2002;  -13833; 0; 9813;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 23; B ships\StarTrekShips\Federation\Transportwboxes\NacelleLDetails; N ships\StarTrekShips\Federation\Transportwboxes\NacelleLDetails;  // idx 23
+{ 0x2002;  -13833; 0; 9813;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
