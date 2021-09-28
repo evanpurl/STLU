@@ -1,4 +1,4 @@
-/# Exported with dbox2 1.13 at 9/28/2021 12:25:59 PM
+/# Exported with dbox2 1.13 at 9/28/2021 12:45:38 PM
  
 VER: 6;
  
@@ -33,7 +33,7 @@ P 9; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bTop; b  // idx
 { 0x2002;  -387; 83967; 190115;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
 
 P 10; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4bRear; b  // idx 10
-{ 0x2002;  0; 23434; -170767;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+{ 0x2002;  0; 23434; -170767;  0.250698; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
 
 P 11; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3bright; b  // idx 11
 { 0x2002;  199368; 51592; 227493;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
@@ -96,5 +96,5 @@ P 30; B ships\props\invisible_weapon; C 3; N Bships\props\invisible_weapon_3eLef
 { 0x2002;  -197212; 51659; 143925;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
 
 P 31; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2bBridge; b  // idx 31
-{ 0x2002;  -1801; 52093; 388224;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+{ 0x2002;  -1801; 63033; 307472;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
 
