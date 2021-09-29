@@ -1,6 +1,6 @@
 /# Exported with dbox2 1.13 at 9/29/2021 1:32:38 PM
  
-MATERIAL6: 0; 0; C:\Users\evan\Desktop\Star Trek\ST Models to look at\Star Trek Online Ships 2020 (October)\Klingon\Kelvin Timeline\Textures\ship_mat_klg_kelvin_decalout.png; 0;0;0; 204;204;204; 204;204;204; 0; 0; 46; 25; 0;0;0; 100; NULL;0; NULL;100; NULL;100; NULL;100; NULL;0; // D4X_BOP_DECALS
+MATERIAL6: 0; 0; ship_mat_klg_kelvin_decalout.dds; 0;0;0; 204;204;204; 204;204;204; 0; 0; 46; 25; 0;0;0; 100; NULL;0; NULL;100; NULL;100; NULL;100; NULL;0; // D4X_BOP_DECALS
  
 5945; // body size
 // vertices (701)

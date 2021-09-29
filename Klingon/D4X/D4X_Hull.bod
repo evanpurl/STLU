@@ -1,6 +1,6 @@
 /# Exported with dbox2 1.13 at 9/29/2021 1:32:56 PM
  
-MATERIAL6: 0; 0; C:\Users\evan\Desktop\Star Trek\ST Models to look at\Star Trek Online Ships 2020 (October)\Klingon\Kelvin Timeline\Textures\Ship_Mat_Klg_Kelvin_Dout.dds; 149;149;149; 149;149;149; 229;229;229; 0; 0; 10; 0; 0;0;0; 100; NULL;100; NULL;30; NULL;100; NULL;100; NULL;0; // Material #25
+MATERIAL6: 0; 0; Ship_Mat_Klg_Kelvin_Dout.dds; 149;149;149; 149;149;149; 229;229;229; 0; 0; 10; 0; 0;0;0; 100; NULL;100; NULL;30; NULL;100; NULL;100; NULL;0; // Material #25
  
 6474; // body size
 // vertices (24102)
