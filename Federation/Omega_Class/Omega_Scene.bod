@@ -1,0 +1,31 @@
+/# Exported with dbox2 1.13 at 9/28/2021 9:50:38 PM
+ 
+VER: 6;
+ 
+P 0; B ships\StarTrekShips\Federation\Omega_Class\OmegaBody; N ships\StarTrekShips\Federation\Omega_Class\OmegaBody;  // idx 0
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B ships\StarTrekShips\Federation\Omega_Class\OmegaHull; N ships\StarTrekShips\Federation\Omega_Class\OmegaHull;  // idx 1
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\StarTrekShips\Federation\Omega_Class\Stanchions; N ships\StarTrekShips\Federation\Omega_Class\Stanchions;  // idx 2
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\StarTrekShips\Federation\Omega_Class\Guns; N ships\StarTrekShips\Federation\Omega_Class\Guns;  // idx 3
+{ 0x2002;  0; 1376; -18538;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\StarTrekShips\Federation\Omega_Class\FrontRight; N ships\StarTrekShips\Federation\Omega_Class\FrontRight;  // idx 4
+{ 0x2002;  0; 1472; -16753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\StarTrekShips\Federation\Omega_Class\FrontLeft; N ships\StarTrekShips\Federation\Omega_Class\FrontLeft;  // idx 5
+{ 0x2002;  0; 1472; -16753;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\StarTrekShips\Federation\Omega_Class\NacellesFront; N ships\StarTrekShips\Federation\Omega_Class\NacellesFront;  // idx 6
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\StarTrekShips\Federation\Omega_Class\LeftNacelleBack; N ships\StarTrekShips\Federation\Omega_Class\LeftNacelleBack;  // idx 7
+{ 0x2002;  4680; -275; 3153;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\StarTrekShips\Federation\Omega_Class\RightNacelleBack; N ships\StarTrekShips\Federation\Omega_Class\RightNacelleBack;  // idx 8
+{ 0x2002;  -4633; -275; 3153;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
